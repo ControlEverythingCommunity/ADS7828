@@ -60,4 +60,4 @@ Verify and flash the code on your Photon. Code output is shown in logs at dashbo
  
 https://dashboard.particle.io/user/logs
 
-#####The code output is digital value of an analog input..
+#####The code output is digital value of an analog input.
